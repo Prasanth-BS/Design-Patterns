@@ -1,4 +1,4 @@
-public HomeBuilder {
+public class HomeBuilder {
     public HomeType type;
     public int noBedRooms;
     public int noKitchens;
